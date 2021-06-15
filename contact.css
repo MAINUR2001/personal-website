@@ -1,0 +1,96 @@
+.contact{
+padding-top: 3rem;
+padding-bottom: 15rem;
+background-color: rgb(90, 27, 27);
+text-align: center;
+font-family:cursive;
+font-weight: bold;
+font-size: 5rem;
+color: rgb(145, 14, 14);
+background-image: url(contact-img.jpg);
+margin-top: 3rem;
+line-height: 13rem;
+
+}
+
+.contact-quick{
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.contact-id{
+
+
+    background-color: powderblue;
+}
+
+
+/* FOOTER */
+.btn-fb:hover{
+    color: blue;
+    background-color: white;
+}
+.btn-twitter:hover{
+    color: blue;
+    background-color: white;
+
+}
+.btn-insta:hover{
+
+    background-color: white;
+
+}
+.btn-linkedin:hover{
+    background-color: white;
+}
+.btn-git:hover{
+    background-color: white;
+}
+.btn-whatsapp:hover{
+    background-color: white;
+}
+/* FOOTER */
+
+.div-1-grid{
+
+    background-color: rgba(221, 221, 221, 0.924);
+    margin-bottom: 3rem;
+    margin-right: 6rem;
+    padding-top: 1rem;
+
+
+}
+.div-2-grid{
+    padding-top: 1rem;
+
+    background-color: rgb(201, 202, 201);
+    margin-bottom: 3rem;
+    margin-right: 6rem;
+}
+.div-3-grid{
+    padding-top: 1rem;
+    background-color: rgba(221, 221, 221, 0.924);
+    margin-bottom: 3rem;
+    
+
+}
+.full-grid-contact{
+   text-align: center;
+   padding-left: 15%;
+   padding-right: 15%;
+   
+   padding-top: 3rem;
+   padding-bottom: 1rem;
+
+}
+
+.bottom-img{
+    padding-top: 3rem;
+    width: 100%;
+  }
+  .contact-me{
+      padding-top: 3rem;
+  
+    text-align: center;
+  }

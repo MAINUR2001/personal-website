@@ -1,0 +1,69 @@
+.seminar-heading{
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+    text-align: center;
+    font-size: 180%;
+    color: crimson;
+
+    
+}
+.seminar-para{
+text-align: center;
+font-size: 200%;
+color: green;
+padding-bottom: 4rem;
+
+}
+
+.img-certificates{
+width: 70%;
+text-align: center;
+
+
+}
+
+.certificates{
+    text-align: center;
+}
+
+.certificates-group{
+background-color: rgb(255, 255, 255);
+
+
+}
+
+
+.img-heading{
+text-align: center;
+position: relative;
+padding-top: 1rem;
+padding-bottom: 4rem;
+color: crimson;
+font-weight: bold;
+}
+
+/* FOOTER */
+.btn-fb:hover{
+    color: blue;
+    background-color: white;
+}
+.btn-twitter:hover{
+    color: blue;
+    background-color: white;
+
+}
+.btn-insta:hover{
+
+    background-color: white;
+
+}
+.btn-linkedin:hover{
+    background-color: white;
+}
+.btn-git:hover{
+    background-color: white;
+}
+.btn-whatsapp:hover{
+    background-color: white;
+}
+/* FOOTER */
