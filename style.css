@@ -1,4 +1,7 @@
 
+
+
+}
 .top-image{
   position: absolute;
   top: 4rem;
@@ -24,34 +27,25 @@ padding-right: 0rem;
   left: 5%;
   }
 
-.btn-cv{
-  color: rgb(255, 255, 255);
-  position: absolute;
-top: 31em;
-left: 20%;
-padding: 16px 80px;
-font-size: larger;
-border-radius: 28px;
-background-color: crimson;
-outline: #f7eded;
+
+.inner{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
-.btn-cv:hover{
-background-color: rgb(243, 164, 164);
-
-
-}
 
 .nav-link:hover{
 
   background-color: rgba(223, 213, 209, 0);
 }
 .education {
-margin-top: 25rem;
+
 width: 100%;
 background-color: #ffffff;
 position: relative;
-z-index: +1;
+
 
 padding-right: 0px;
 
